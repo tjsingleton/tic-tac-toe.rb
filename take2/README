@@ -1,0 +1,2 @@
+Notes:
+* TicTacToe is a flexible grid, but really should always be a square with an odd number of rows.
